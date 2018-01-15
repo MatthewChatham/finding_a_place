@@ -456,6 +456,57 @@
           37.784049599371585
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Arden Condos",
+        "link": "https://sfbay.craigslist.org/sfc/sub/d/walkable-to-public-transport/6443244778.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39414066076279,
+          37.77184691709848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Haight condo",
+        "link": "https://sfbay.craigslist.org/sfc/apa/d/condowalk-in/6459140480.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44123220443726,
+          37.77123630607322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "old corner unit",
+        "link": "https://sfbay.craigslist.org/sfc/sub/d/amazing-corner-unit-amazing/6457187066.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42233067750931,
+          37.788619786676236
+        ]
+      }
     }
   ]
 }
