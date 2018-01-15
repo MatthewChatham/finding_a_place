@@ -109,7 +109,7 @@
         "stroke-opacity": 1,
         "fill": "#80ff00",
         "fill-opacity": 0.1,
-        "name": "priority 1"
+        "name": "area: priority 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -235,7 +235,7 @@
         "stroke-opacity": 1,
         "fill": "#ff8000",
         "fill-opacity": 0.1,
-        "name": "priority 2"
+        "name": "area: priority 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -404,6 +404,56 @@
               37.71641767847623
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Village @ Petrini Place",
+        "rent": "$3400",
+        "commute": "20-40 mins",
+        "walkability": "high",
+        "laundry": "in-unit",
+        "size": "600 sq ft",
+        "amenities": "quiet, garage parking, gym, supermarket",
+        "status": "applied, waiting",
+        "availability": "Feb. 23",
+        "link": "https://sfbay.craigslist.org/sfc/apa/d/light-filled-nopa-condo-with/6448149036.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4456712603569,
+          37.77645813960648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Carillon Tower",
+        "rent": "$3250",
+        "size": "625 sq ft",
+        "commute": "15-40 mins",
+        "laundry": "in building",
+        "walkability": "high",
+        "amenities": "view, balcony, pool, gym",
+        "status": "to apply",
+        "availability": "Feb 16",
+        "link": "https://sfbay.craigslist.org/sfc/apa/d/central-living-11th-floor/6454686166.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42396414279936,
+          37.784049599371585
         ]
       }
     }
